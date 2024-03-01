@@ -292,3 +292,8 @@
     text-decoration: none;
     color: white;
 }
+
+@import url(https://fonts.googleapis.com/css?family=Poppins:300);
+html {
+ height: 100%;
+}
