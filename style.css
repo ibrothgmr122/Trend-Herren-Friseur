@@ -1,0 +1,294 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.container {
+    background-image: url('https://wallpapers.com/images/hd/barber-pole-spiral-design-8uhwftncpmvaxz1c.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 40px;
+    color: white;
+}
+
+.center-header {
+    display: flex;
+    gap: 30px;
+    font-family: Gilroy;
+
+}
+
+
+.start-header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 50px;
+}
+
+
+
+.end-header {
+    position: relative;
+    right: 50px;
+
+}
+
+
+.end-header svg {
+    position: relative;
+    top: 5px;
+}
+
+.end-header a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.content {
+    display: flex;
+    background-color: #0B1D26;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+}
+
+
+.start-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.start-content span {
+    color: var(--Accent, #FBD784);
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+}
+
+
+.start-content h2 {
+    color: white;
+    width: 555px;
+}
+
+.start-content p {
+    color: white;
+    width: 555px;
+}
+
+
+.line-cnt hr {
+    width: 50px;
+    color: #FBD784;
+    position: relative;
+    right: 20px;
+    top: 10px;
+}
+
+
+.strt-cnt {
+    position: relative;
+    left: 50px;
+}
+
+
+.rd-mr {
+    position: relative;
+    top: 15px;
+}
+
+
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: #0B1D26;
+    height: 400px;
+
+}
+
+
+
+.end-footer {
+    display: flex;
+}
+
+
+.start-footer span {
+    color: var(--Wei, white);
+    font-family: Chronicle Display;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    text-transform: capitalize;
+}
+
+
+.copyright span {
+    color: grey;
+    font-size: 15px;
+    position: relative;
+    top: 70px;
+}
+
+
+.start-footer p {
+    width: 303px;
+    position: relative;
+    top: 20px;
+    color: white;
+}
+
+
+.king-one {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+
+.king-two {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+    left: 80px;
+}
+
+
+.the-king,
+.second-king {
+    color: #FBD784;
+}
+
+.start-footer,
+.end-footer {   
+        margin-top: 150px;
+}
+
+
+
+
+.title {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 150px;
+    
+}
+
+
+.hiking- {
+    color: var(--Accent, #FBD784);
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+}
+
+
+.title h1 {
+    color: var(--Wei, #FFF);
+    font-family: Chronicle Display;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100px;
+    /* 113.636% */
+    text-transform: capitalize;
+
+}
+
+
+.title hr {
+    width: 50px;
+    color: #FBD784;
+    position: relative;
+    right: 160px;
+}
+
+
+.scrd {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.button-instagram {
+    background-color: #FBD784;
+    color: black;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    top: 10px;
+}
+
+
+.end-content img {
+    border-radius: 15px;
+    position: relative;
+    top: 3px;
+}
+
+
+.trendherren2nd {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.logoPic {
+    border-radius: 800px;
+}
+
+
+.TheMap {
+    border-radius: 30px;
+}
+
+
+.downn {
+    background-color: #0B1D26;
+    height: 100px;
+}
+
+
+
+.abtus {
+    text-decoration: none;
+    color: blanchedalmond;
+}
+
+
+
+.blogg {
+    text-decoration: none;
+    color: white;
+}
